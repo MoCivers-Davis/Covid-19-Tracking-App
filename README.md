@@ -1,4 +1,4 @@
-![screenshot of App](assets/img/covid19_screenshot.png)
+![screenshot of App](public/assets/img/covid19_screenshot.png)
 
 # Covid-19-Tracking-App
 
